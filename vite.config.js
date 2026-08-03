@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/tic-tac-toe-dark-mode/',
+  base: '/tic-tac-toe-app',
 })
