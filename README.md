@@ -1,4 +1,4 @@
-# 🟢 Tic-Tac-Toe React App
+# Tic-Tac-Toe 
 
 A **dark-themed Tic-Tac-Toe** game built with **React (JSX only)**.  
 Enjoy classic X vs O gameplay with a modern dark UI and glowing winning effect.
