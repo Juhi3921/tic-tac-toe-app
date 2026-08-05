@@ -1,6 +1,5 @@
 # Tic-Tac-Toe 
-
-A **dark-themed Tic-Tac-Toe** game built with **React (JSX only)**.  
+game built with React JSX only
 Enjoy classic X vs O gameplay with a modern dark UI and glowing winning effect.
 
 
@@ -13,12 +12,13 @@ Tic-Tac-Toe game board showing a tied game with X and O marks arranged in a 3x3 
 - Track current player’s turn
 - Automatically detect the winner
 - Highlight winning combination with teal glow
-- Detect tie games
 - Reset game button
-- Responsive and clean design
 
 ## Technologies Used
 
 - **React**
 - **JavaScript**
 - **CSS3** 
+
+##Screenshot
+<img width="1366" height="768" alt="tic tac toe" src="https://github.com/user-attachments/assets/6e8169c8-3ab3-43e3-b1a1-e49e16f4fded" />
