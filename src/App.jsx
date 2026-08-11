@@ -39,7 +39,8 @@ function App() {
   return (
     <div className="App">
       <h1>Tic Tac Toe</h1>
-
+      <p className="game-description">
+         challenge your friend and get three in a row!!</p>
       <div className="board">
         {board.map((value, index) => (
           <BoardTile
