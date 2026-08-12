@@ -1,4 +1,4 @@
-# Tic-Tac-Toe 
+# Tic-Tac-Toe  game
 game built with React JSX only
 Enjoy classic X vs O gameplay with a modern dark UI and glowing winning effect.
 
